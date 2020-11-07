@@ -1,0 +1,1 @@
+gcc net.c -o net && ./net
